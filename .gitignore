@@ -8,3 +8,11 @@ niche.txt
 *.exe
 auto.sh
 .DS_Store
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+service-account*.json
+client_secret*.json
